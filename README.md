@@ -1,6 +1,6 @@
 ### 👋 Hi there,  I'm Ayodeji (double joy) but you can call me Ayò.
 
-![My Banner](images/mybanner.png)
+![My Banner](images/myBanner.png)
 
 <!--
 **ayodejiayodele/ayodejiayodele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
